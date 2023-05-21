@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="8.529" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Hompage" name="Test01" time="8.032">
+<system-out><![CDATA[
+Given Navigate to the home page.............................................passed
+And Assert that both the email address and password inputs are present as well as the login button.passed
+And Enter in an email address and password combination into the respective fields.passed
+]]></system-out>
+</testcase>
+</testsuite>
